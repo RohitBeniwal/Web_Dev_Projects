@@ -1,3 +1,5 @@
+// Detecting button press
+
 var numberofbuttons = document.querySelectorAll(".drum").length;
 
 for(var i=0; i<numberofbuttons ;i++){
@@ -5,7 +7,21 @@ for(var i=0; i<numberofbuttons ;i++){
 
         var buttonInnerHTML = this.innerHTML;
 
-       switch (buttonInnerHTML) {
+       makeSound(buttonInnerHTML);
+
+    });
+}
+
+// Detecting Key Press
+
+document.addEventListener("keypress",function(event){
+    makeSound(event.key);
+});
+
+// function(event) then console.log(event) to get status of what happened
+
+function makeSound(key){
+    switch (key) {
         case "w":
             var audio = new Audio("sounds/crash.mp3");
             audio.play();
@@ -37,8 +53,4 @@ for(var i=0; i<numberofbuttons ;i++){
         default:
             break;
        } 
-
-    });
 }
-
-
