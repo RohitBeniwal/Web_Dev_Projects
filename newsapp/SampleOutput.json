@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukrainian troops holding line at Bakhmut appeal for help as global security meeting starts - Reuters.com",
+            "description": "Ukrainian soldiers fighting to hold off a Russian push on the small eastern city of Bakhmut pleaded for more weapons from the outside world as senior Western leaders <a href=\"/world/europe/war-ukraine-dominate-global-security-gathering-munich-2023-02-16/\">met…",
+            "url": "https://www.reuters.com/world/europe/ukraines-priority-hold-line-global-security-leaders-gather-2023-02-17/",
+            "urlToImage": "https://www.reuters.com/resizer/ACAnQIhsHMBk5398uiSYtpLlfvs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHWPGHFLGVLNBHXIYIXJGZ6P7Y.jpg",
+            "publishedAt": "2023-02-17T13:51:00Z",
+            "content": "NEAR BAKHMUT, Ukraine/MUNICH, Feb 17 (Reuters) - Ukrainian soldiers fighting to hold off a Russian push on the small eastern city of Bakhmut pleaded for more weapons from the outside world as senior … [+4445 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "AJLabs",
+            "title": "Which countries recognise Kosovo’s statehood? - Al Jazeera English",
+            "description": "Kosovo declared itself a sovereign state 15 years ago, but countries including Serbia do not recognise its independence.",
+            "url": "https://www.aljazeera.com/news/2023/2/17/mapping-the-countries-that-recognise-kosovo-as-a-state-2",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/INTERACTIVE-Kosovo-cover-image.png?resize=1920%2C1081",
+            "publishedAt": "2023-02-17T13:44:54Z",
+            "content": "February 17 marks 15 years since Kosovo declared independence from Serbia.\r\nSerbia does not recognise Kosovos statehood. Neither does Russia, China and five European Union countries Spain, Slovakia, … [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Kevin Patra",
+            "title": "Howie Roseman prioritizing Jalen Hurts extension, says Carson Wentz deal won't inform discussions - NFL.com",
+            "description": "The Eagles are preparing to give Jalen Hurts a massive raise with a new contract at some point this offseason. Howie Roseman says he won't let the letdown of the Carson Wentz deal informed his thinking on Hurts' contract.",
+            "url": "https://www.nfl.com/news/howie-roseman-prioritizing-jalen-hurts-extension-carson-wentz-deal-eagles",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/vyiciiwcagrocwlbf4mk",
+            "publishedAt": "2023-02-17T13:44:00Z",
+            "content": "The Philadelphia Eagles are preparing to give Jalen Hurts a massive raise with a new contract at some point this offseason.\r\n\"Obviously we want to keep our best players here for the long term, and he… [+1582 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Far-right Republican groups surge in swing state Michigan - Reuters.com",
+            "description": "Jon Smith, a local leader in rural Michigan of America First, a far-right Republican faction that denies the results of the 2020 election, wants to shift the entire party to the right - even if it means short-term losses at the ballot box. \"We need to redefin…",
+            "url": "https://www.reuters.com/world/us/far-right-republican-groups-surge-swing-state-michigan-2023-02-17/",
+            "urlToImage": "https://www.reuters.com/resizer/U8jhbUc4ND4nttqZqK9ZwXqY6pM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XO677F3IM5NDRIPN3GYPOJ2FGM.jpg",
+            "publishedAt": "2023-02-17T13:22:00Z",
+            "content": "HILLSDALE, Mich, Feb 17 (Reuters) - Jon Smith, a local leader in rural Michigan of America First, a far-right Republican faction that denies the results of the 2020 election, wants to shift the entir… [+5847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Scout Willis 'overwhelmed' after sharing dad Bruce's dementia diagnosis - Page Six",
+            "description": "Tallulah and Rumer Willis, who is pregnant, echoed their sister’s message and re-shared it on their own Instagram Stories after announcing the “cruel” diagnosis.",
+            "url": "https://pagesix.com/2023/02/17/scout-willis-speaks-out-after-sharing-dad-bruces-dementia/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/02/NYPICHPDPICT000006814432.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-02-17T13:21:00Z",
+            "content": "Scout Willis said she is “overwhelmed” after she and her family revealed her father, Bruce Willis, has been diagnosed with frontotemporal dementia (FTD).\r\nTaking to her Instagram Story late Thursday … [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ohio town reflects on chemical train derailment aftermath - BBC",
+            "description": "Residents of this close-knit community fear the railroad disaster has changed their lives forever.",
+            "url": "https://www.bbc.com/news/world-us-canada-64671893",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B13/production/_128655748_ohiodadstill1.jpg",
+            "publishedAt": "2023-02-17T13:20:05Z",
+            "content": "Media caption, Washing fruit with bottled water: How one family is dealing with the aftermath \r\nFor East Palestine residents John and Lisa Hamner, life as they knew it came to a screeching, flaming h… [+6539 chars]"
+        }
+        
+    ]
+}
